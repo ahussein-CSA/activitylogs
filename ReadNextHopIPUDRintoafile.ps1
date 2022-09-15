@@ -28,7 +28,7 @@ Param
   [Parameter (Mandatory= $true)]
   [string] $oldnexthopip,
   [Parameter (Mandatory= $true)]
-  [string] $newnexthopip,
+  [string] $newnexthopip
 )
 
 #variables
